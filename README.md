@@ -132,6 +132,8 @@ This repository is a comprehensive directory of notable **SaaS platforms** and *
 
 - **[Orkas](https://github.com/Orkas-AI/Orkas)** [![GitHub stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social&color=white)](https://github.com/Orkas-AI/Orkas/stargazers) 🧭  
   Open-source, local-first desktop AI workforce coordinated by an executive Commander agent through a single chat interface.
+- **[YYLO CLI](https://github.com/yylo-dev/yylo)** [![GitHub stars](https://img.shields.io/github/stars/yylo-dev/yylo?style=social&color=white)](https://github.com/yylo-dev/yylo/stargazers) 🛠️  
+  Open-source (MIT) command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes, installed via npm.
 
 ---
 
