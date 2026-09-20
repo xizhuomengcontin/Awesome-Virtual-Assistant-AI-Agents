@@ -20,6 +20,7 @@
 </div>
 
 ## 🌟 Top Virtual Assistant AI Agents Ecosystem 2026
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — drop-in recorder that sits between your agent and the model provider.
 
 **A Curated List of the Best SaaS Products & Open-Source GitHub Projects for Autonomous AI Agents**  
 *Focused on Productivity, Automation, and Intelligent Personal Assistants*  
